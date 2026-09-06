@@ -1,0 +1,59 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Organization",
+    "AdvertisingAgency"
+  ],
+  "@id": "https://flashface.nl/#organization",
+  "name": "FlashFace",
+  "alternateName": [
+    "Flashface",
+    "FlashFace Amsterdam"
+  ],
+  "url": "https://flashface.nl/",
+  "email": "darragh@flashface.nl",
+  "telephone": "+31-61-998-4600",
+  "foundingDate": "2024",
+  "founder": {
+    "@type": "Person",
+    "@id": "https://flashface.nl/#darragh-baratin",
+    "name": "Darragh Baratin",
+    "email": "darragh@flashface.nl",
+    "jobTitle": "Founder"
+  },
+  "description": "Amsterdam and Lisbon social ads and video production studio. Short-form ads for Meta and TikTok, per-unit pricing, 0% of ad spend, optional in-house media buying.",
+  "areaServed": [
+    "NL",
+    "PT",
+    "EU"
+  ],
+  "knowsLanguage": [
+    "nl",
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "address": [
+    {
+      "@type": "PostalAddress",
+      "streetAddress": "Keizersgracht 555",
+      "addressLocality": "Amsterdam",
+      "postalCode": "1017 DR",
+      "addressCountry": "NL"
+    },
+    {
+      "@type": "PostalAddress",
+      "streetAddress": "Strawinskylaan 1",
+      "addressLocality": "Amsterdam",
+      "postalCode": "1077 XX",
+      "addressCountry": "NL"
+    }
+  ],
+  "sameAs": [
+    "https://flashface.nl/",
+    "https://www.flashface.nl/home",
+    "https://nl.linkedin.com/company/flashfaceads",
+    "https://flashface.nl/careers"
+  ]
+}

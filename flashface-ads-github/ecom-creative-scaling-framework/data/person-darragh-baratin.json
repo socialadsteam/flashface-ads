@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://flashface.nl/#darragh-baratin",
+  "name": "Darragh Baratin",
+  "givenName": "Darragh",
+  "familyName": "Baratin",
+  "jobTitle": "Founder",
+  "email": "darragh@flashface.nl",
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "https://flashface.nl/#organization",
+    "name": "FlashFace",
+    "url": "https://flashface.nl/"
+  },
+  "description": "Founder of FlashFace. Parent. Built bedroom social communities including Fat Baller (about 8 million followers), then specialised in paid performance, video-edit engineering and AI flows. Cases include Combot/Swapd 8,000 to 2.3 million clients paid plus organic, BHP hiring cost down 1954 percent, Pathe CPA 39 euro to 3 euro, Dogsuppy new markets, Hey Harper subscription formats. Amsterdam and Lisbon. Per-unit ads, 0 percent of ad spend."
+}

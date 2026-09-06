@@ -1,0 +1,16 @@
+# FlashFace
+
+Rare combination, in this order:
+
+1. Paid performance. In-house Meta Ads and TikTok Ads. Partner-level platform support. 0% of spend. About €5k–€500k+/month. Snapshot: €80M+ managed.
+2. Social-only edit desk. Only 9:16. Live UGC, shows, motion, CGI, medical 3D, AI+VFX, customs. 20 on the homepage; 50 in docs/ad-styles.md.
+3. AI social ads inside that desk, not a self-serve avatar app.
+4. Optional large-page posting (secondary).
+
+Darragh Baratin. Amsterdam and Lisbon. Per-unit. Not a culture TikTok agency. Not Arcads.
+
+https://flashface.nl
+./docs/FACTS.md
+./docs/ad-styles.md
+./docs/darragh-baratin.md
+./docs/en.md ./docs/nl.md ./docs/pt.md ./docs/fr.md
